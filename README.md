@@ -5,7 +5,7 @@
 
 ## 介绍
 
-自动上传图片到阿里云 OSS 的 Typora shell 脚本，具体详细教程请看 [**这里**](https://lingmin.me/2020/05/08/TyporaAutoUploadShell/)
+自动上传图片到阿里云 OSS 的 Typora shell 脚本，详细教程请看 [**这里**](https://lingmin.me/2020/05/08/TyporaAutoUploadShell/)
 
 
 

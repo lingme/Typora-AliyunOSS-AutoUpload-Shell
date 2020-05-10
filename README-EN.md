@@ -1,11 +1,12 @@
 English | [简体中文](./README.md)
 
-<h1 align="center">Typora Auto Upload Aliyun OSS</h1>
+<h1 align="center" style="margin-top:100px;margin-bottom:100px">Typora Aliyun OSS Shell</h1>
+
 
 
 ## Introduction
 
-Typora custom script for automatically uploading pictures to Alibaba Cloud OSS
+Typora custom script for automatically uploading pictures to Alibaba Cloud OSS, For detailed tutorial, please see [here](https://lingmin.me/2020/05/08/TyporaAutoUploadShell/)
 
 
 
@@ -37,13 +38,9 @@ cloudFolder="your-oss-folder"
 
 Alibaba Cloud OSS EndPoint，You can find it in the Bucket List-> Overview of the OSS console。
 
-![Screen Shot 2020-05-10 at 8.43.48 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.43.48_PM.png)
-
 <h4 style="color:red;">bucket</h4>
 
 Alibaba Cloud OSS Bucket name。
-
-![Screen Shot 2020-05-10 at 8.45.10 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.45.10_PM.png)
 
 <h4 style="color:red;">id 和 key</h4>
 
@@ -51,15 +48,10 @@ Alibaba Cloud OSS Bucket name。
 
 **key** Alibaba Cloud OSS AccessKey Secret
 
-![Screen Shot 2020-05-10 at 8.50.38 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.50.38_PM.png)
-
-![Screen Shot 2020-05-10 at 8.52.46 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.52.46_PM.png)
-
 <h4 style="color:red;">cloudFolder</h4>
 
 Alibaba Cloud OSS directory where pictures need to be saved
 
-![Screen Shot 2020-05-10 at 8.58.22 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.58.22_PM.png)
 
 **Example：**
 
@@ -73,7 +65,6 @@ cloudFolder="ME/Demo"
 
 <h4 style="color:red;">MacOS & Linux</h4>
 
-![Screen Shot 2020-05-10 at 9.06.33 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_9.06.33_PM.png)
 
 Need to set run permissions
 
@@ -92,8 +83,6 @@ Typora command setting
 
 
 <h4 style="color:red;">Windows</h4>
-
-![Screen Shot 2020-05-10 at 9.14.59 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_9.14.59_PM.png)
 
 Typora command setting
 
