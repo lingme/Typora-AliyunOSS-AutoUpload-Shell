@@ -32,7 +32,12 @@ cloudFolder="your-oss-folder"
 # ================================================
 ```
 
-> host
+> **host**
 
-你的阿里云host地址，可以在OSS控制台的Bucket列表->概述，找到。
+你的阿里云OSS EndPoint（地域节点）地址，可以在OSS控制台的Bucket列表->概述，找到。
 
+![Screen Shot 2020-05-10 at 8.33.57 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.33.57_PM.png)
+
+> **bucket**
+
+你的辣鱼
