@@ -33,22 +33,21 @@ cloudFolder="your-oss-folder"
 
 # ================================================
 ```
-<h4 style="color:red;">host</h4>
+<h4 style="color:red;">[ host ]</h4>
 
 阿里云 OSS EndPoint（地域节点）地址，可以在 OSS 控制台的 Bucket 列表->概述，找到。
 
-<h4 style="color:red;">bucket</h4>
+<h4 style="color:red;">[ bucket ]</h4>
 
 阿里云OSS Bucket名称。
 
-<h4 style="color:red;">id 和 key</h4>
+<h4 style="color:red;">[ id , key ]</h4>
 
 **id** 阿里云 OSS AccessKey ID
 
 **key** 阿里云 OSS AccessKey Secret
 
-
-<h4 style="color:red;">cloudFolder</h4>
+<h4 style="color:red;">[ cloudFolder ]</h4>
 
 需要保存图片的阿里云 OSS 目录
 
