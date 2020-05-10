@@ -5,7 +5,7 @@
 
 ## 介绍
 
-自动上传图片到阿里云 OSS 的 Typora shell 脚本。
+自动上传图片到阿里云 OSS 的 Typora shell 脚本，具体详细教程请看 [**这里**](https://lingmin.me/2020/05/08/TyporaAutoUploadShell/)
 
 
 
@@ -37,13 +37,9 @@ cloudFolder="your-oss-folder"
 
 阿里云 OSS EndPoint（地域节点）地址，可以在 OSS 控制台的 Bucket 列表->概述，找到。
 
-![Screen Shot 2020-05-10 at 8.43.48 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.43.48_PM.png)
-
 <h4 style="color:red;">bucket</h4>
 
 阿里云OSS Bucket名称。
-
-![Screen Shot 2020-05-10 at 8.45.10 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.45.10_PM.png)
 
 <h4 style="color:red;">id 和 key</h4>
 
@@ -51,15 +47,11 @@ cloudFolder="your-oss-folder"
 
 **key** 阿里云 OSS AccessKey Secret
 
-![Screen Shot 2020-05-10 at 8.50.38 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.50.38_PM.png)
-
-![Screen Shot 2020-05-10 at 8.52.46 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.52.46_PM.png)
 
 <h4 style="color:red;">cloudFolder</h4>
 
 需要保存图片的阿里云 OSS 目录
 
-![Screen Shot 2020-05-10 at 8.58.22 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_8.58.22_PM.png)
 
 示例：
 
@@ -73,7 +65,6 @@ cloudFolder="ME/Demo"
 
 <h4 style="color:red;">MacOS & Linux</h4>
 
-![Screen Shot 2020-05-10 at 9.06.33 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_9.06.33_PM.png)
 
 需要设置运行权限
 
@@ -93,7 +84,6 @@ Typora 的 Command 设置
 
 <h4 style="color:red;">Windows</h4>
 
-![Screen Shot 2020-05-10 at 9.14.59 PM](https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/Screen_Shot_2020-05-10_at_9.14.59_PM.png)
 
 Typora 的 Command 设置
 
