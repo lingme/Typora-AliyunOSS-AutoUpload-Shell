@@ -53,7 +53,13 @@ function urlencode() {
 
 for var in "$@"
 do
-    newFile="${var%/*}/"`echo "${var##*/}" | sed 's/[ ][ ]*/_/g'`
+    newFile=""
+    case "$OSTYPE" in
+      msys*)
+        newFile=`echo "${var##*/}" | sed 's/[ ][ ]*/_/g'` ;;
+      *)
+        newFile="${var%/*}/"`echo "${var##*/}" | sed 's/[ ][ ]*/_/g'`
+    esac
     mv "$var" "$newFile" 
     upload "$newFile"
 done
