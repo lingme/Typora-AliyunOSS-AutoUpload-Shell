@@ -1,4 +1,4 @@
-English | [简体中文](./README.md)
+English | [简体中文](https://github.com/lingme/Typora-AliyunOSS-AutoUpload-Shell)
 
 <h1 align="center" style="margin-top:100px;margin-bottom:100px">Typora Aliyun OSS Shell</h1>
 
