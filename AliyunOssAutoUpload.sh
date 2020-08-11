@@ -2,11 +2,11 @@
 
 # ==================== Config ====================
 
-host            ="your-oss-host"
-bucket          ="your-oss-bucket"
-id              ="your-oss-AccessKey ID"
-key             ="your-oss-AccessKey Secret Key"
-cloudFolder     ="your-oss-folder"
+host="your-oss-host"
+bucket="your-oss-bucket"
+id="your-oss-AccessKey ID"
+key="your-oss-AccessKey Secret Key"
+cloudFolder="your-oss-folder"
 
 # ================================================
 
