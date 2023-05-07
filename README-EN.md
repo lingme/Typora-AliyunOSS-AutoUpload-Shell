@@ -6,7 +6,7 @@ English | [简体中文](https://github.com/lingme/Typora-AliyunOSS-AutoUpload-S
 
 ## Introduction
 
-Typora custom script for automatically uploading pictures to Alibaba Cloud OSS, For detailed tutorial, please see [here](https://lingmin.me/2020/05/08/TyporaAutoUploadShell/)
+Typora custom script for automatically uploading pictures to Alibaba Cloud OSS, For detailed tutorial, please see [here](https://lingme.cc/2020/05/08/TyporaAutoUploadShell/)
 
 
 
